@@ -1,0 +1,207 @@
+body{
+    background-color: #e7e7e7;
+    width: 100%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: rgb(156, 49, 49);
+    display: flex;
+    justify-content: center;
+}
+.icon{
+    width: 300px;
+    height: 300px;
+    margin-left: 2%;
+    margin-top: -3%;
+    margin-bottom: -5%;
+}
+#fotbol{
+    color: white;
+    font-size: 50px;
+    margin-left: 0.5%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+} 
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+    margin-left: 15px;
+    margin-top: 4%;
+}
+a:hover{
+    color: rgb(255, 95, 95);
+    text-decoration: underline;
+}
+#home{
+    margin-left: 35%;
+}
+.title{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+    text-decoration: underline;
+}
+#txt01{
+    font-size: 38px;
+    margin-top: 13%;
+    margin-right: 50%;
+    margin-left: 70px;
+}
+.txt02{
+    font-size: 38px;
+    margin-left: 53%;
+    margin-top: 10%;
+    margin-bottom: -20%;
+    margin-right: 70px;
+}
+.txt03{
+    font-size: 38px;
+    margin-right: 53%;
+    margin-left: 70px;
+    margin-top: 5%;
+    margin-bottom: -20%;
+}
+#img29{
+    height: 400px;
+    width: 550px;
+    margin-left: 60%;
+    margin-top: -12%;
+    border-radius: 24px;
+    border: 5px solid gray;
+}
+.imgd{
+    height: 400px;
+    width: 500px;
+    border-radius: 24px;
+    margin-left: 70px;
+    margin-top: 5%;
+    border: 5px solid gray;
+}
+.imge{
+    height: 400px;
+    width: 500px;
+    border-radius: 24px;
+    margin-left: 63%;
+    margin-top: 5%;
+    border: 5px solid gray;
+}
+#txt00{
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 6%;
+    margin-bottom: 1%;
+}
+#pcomp{
+    font-size: 35px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 30px;
+}
+.box1{
+    background-color:  rgb(156, 49, 49);
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 80px;
+    margin-bottom: 10px;
+    border-radius: 24px;
+}
+.box2{
+    background-color: white;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 24px;
+}
+#imgbox {
+    height: 500px;
+    width: 800px;
+    border-radius: 24px;
+    margin-left: 45%;
+    margin-bottom: 45px;
+    margin-top: 45px;
+}
+#htxt35{
+    font-size: 40px;
+    margin-left: 200px;
+    margin-top: -34%;
+}
+#htxt36{
+    font-size: 40px;
+    margin-left: 150px;
+    margin-top: -32%;
+}
+.txtbox{
+    font-size: 40px;
+    margin-left: 80px;
+    margin-right: 55%;
+    margin-bottom: 20%;
+    margin-top: 100px;
+}
+#htxt37{
+    font-size: 40px;
+    margin-left: 250px;
+    margin-top: -34%;
+}
+#htxt38{
+    font-size: 40px;
+    margin-left: 140px;
+    margin-top: -31%;
+}
+#htxt39{
+    font-size: 40px;
+    margin-left: 75px;
+    margin-top: -33%;
+}
+#htxt40{
+    font-size: 40px;
+    margin-left: 145px;
+    margin-top: -32%;
+}
+#htxt41{
+    font-size: 40px;
+    margin-left: 180px;
+    margin-top: -33%;
+}
+footer{
+    background-color:  rgb(156, 49, 49);
+    display: flex;
+    justify-content: center;
+}
+#insta{
+    display: flex;
+    justify-content: center;
+    margin-left: 25%;
+    margin-top: 5px;
+}
+#youtube{
+    display: flex;
+    justify-content: center;
+    margin-left: 45%;
+    margin-top: -13%;
+    width: 60px;
+    height: 60px;    
+}
+#Tiktok{
+    display: flex;
+    justify-content: center;
+    margin-left: 65%;
+    margin-top: -13%;
+}
+#rodape_id{
+   font-size: 20px;
+   display: flex;
+   justify-content: center;
+   margin-top: 10px;
+}
